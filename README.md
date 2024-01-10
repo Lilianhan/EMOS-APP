@@ -1,4 +1,6 @@
-Century Butler APP (Employee Side Apps)
+/Still working on it, Not finished/ 
+
+This is a mock-up for Century Butler APP (Employee Side Apps)
 The Century Butler APP is a mobile application designed for employee use, featuring a range of functionalities. Key highlights include:
 
 Framework and Compilation:
